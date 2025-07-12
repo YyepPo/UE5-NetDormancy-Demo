@@ -13,7 +13,7 @@ This project includes two test cases:
 2. **Explosive Barrels (DormantAll)**
    - Barrels start with `NetDormancy = DormantAll`.
    - They send no updates over the network until they take damage.
-   - On impact, they wake up, replicate effects, and return to dormancy.
+   - On impact, they wake up from dormancy, replicate effects, and get destroyed.
 
 These two setups are analyzed using **Unreal's Network Profiler**, showing the difference in replication cost and network waste.
 
