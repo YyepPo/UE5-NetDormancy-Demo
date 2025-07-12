@@ -39,6 +39,9 @@ PublicDependencyModuleNames.AddRange(new string[] {
 
 ---
 
+Video link:
+https://www.linkedin.com/posts/enespa%C3%A7arizi_networking-optimization-in-unreal-engine-activity-7349812386809180164-gSJk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD99Wu4BXueQKsS11JdnI6k-UKQrKb1jd24
+
 ---
 
 NetProfiler Results
