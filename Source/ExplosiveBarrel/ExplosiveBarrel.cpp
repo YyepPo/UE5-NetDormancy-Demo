@@ -12,7 +12,6 @@ AExplosiveBarrel::AExplosiveBarrel()
 
 	bReplicates = true;
 	
-	// Replicate 5 times per second
 	NetUpdateFrequency = 1;
 
 	// Stop replicating entirely until explicitly woken up
